@@ -1,0 +1,5 @@
+projectKey=activeMQ
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/activeMQ
+ceTaskId=AV5YvWrtphHcIX82icwn
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV5YvWrtphHcIX82icwn
