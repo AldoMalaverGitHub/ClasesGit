@@ -13,9 +13,6 @@ public class Alumno implements Serializable {
 	
 	public Alumno() {
 		Optional<Alumno> al = Optional.ofNullable(new Alumno());
-		if(al.isPresent()) {
-			Alumno alumno = al.get();
-		}
 	}
 
 	public Integer getIdAlumno() {
